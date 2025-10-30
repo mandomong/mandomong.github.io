@@ -1,0 +1,11 @@
+[{
+  "relation": ["delegate_permission/common.handle_all_urls"],
+  "target": {
+    "namespace": "android_app",
+    "package_name": "com.hybe.hybenet.hybenet.dev",
+    "sha256_cert_fingerprints":
+    [
+      "A4:36:C7:62:02:3E:BF:13:A5:8C:01:80:9C:9D:02:7A:18:79:3B:75:EC:91:4F:E0:6C:33:64:E7:26:5B:67:D3"
+    ]
+  }
+}]
